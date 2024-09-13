@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - RecruitCatDalalmk</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/RecruitCatDalalmk.styles.css" asp-append-version="true" />
+    <style>
+        .bg-red {
+            background-color: red;
+        }
+      
+    
+    </style>
+</head>
+<body>
+    <header>
+
+        <nav class="navbar navbar-expand-lg navbar-dark bg-red">
+            <a class="navbar-brand">
+                
+                <img src="https://www.rcdcomponents.com/wp-content/uploads/2021/04/cropped-RCD_primary_logo_HEX-1024x391.png" alt="RecruitCatDalalmk Logo" class="d-inline-block align-top" style="max-height: 40px;" />
+                
+            </a>
+            <a class="navbar-brand" href="/">RecruitCatDalalmk</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-page="/OurTeam">Our Team</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+   
+    
+    <div class="bg-white">
+        <div class="container mt-4">
+            @RenderBody()
+        </div>
+    </div>
+
+    <footer class="bg-dark text-white text-center py-3">
+        <div class="container">
+            <p class="mb-0">RecruitCatDalalmk</p>
+            <p class="mb-0">Wishing you success and happiness in all your endeavors — good luck and have a great day! </p>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
