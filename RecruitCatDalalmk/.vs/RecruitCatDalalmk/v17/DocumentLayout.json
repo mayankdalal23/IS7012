@@ -3,28 +3,152 @@
   "WorkspaceRootPath": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\industries\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\industries\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\recruitcatdalalmk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\recruitcatdalalmk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\industries\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\industries\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\industries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\industries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\ourteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\ourteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\industries\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\industries\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\industries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\industries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\industries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\industries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\industries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\industries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\industries\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\industries\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\industries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\industries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\companies\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\companies\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\companies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\companies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\companies\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\companies\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\companies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\companies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\companies\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\companies\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\companies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\companies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\companies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\companies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\candidates\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\candidates\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\candidates\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\candidates\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\candidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\candidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\candidates\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\candidates\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\candidates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\candidates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\candidates\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\candidates\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\candidates\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\candidates\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\candidates\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\candidates\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\candidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\candidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\models\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\models\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\models\\industrys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\models\\industrys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\jobtitles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\jobtitles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\jobtitles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\jobtitles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\jobtitles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\jobtitles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\jobtitles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\jobtitles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|c:\\users\\dalal\\source\\repos\\recruitcatdalalmk\\recruitcatdalalmk\\pages\\jobtitles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B84541-B2B2-4144-A063-5CB49215AE9E}|RecruitCatDalalmk\\RecruitCatDalalmk.csproj|solutionrelative:recruitcatdalalmk\\pages\\jobtitles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,87 +158,452 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T01:56:39.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T01:56:37.657Z",
-              "EditorCaption": ""
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Industries\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Details.cshtml.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Industries\\Details.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:03:11.713Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RecruitCatDalalmk.csproj",
-              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\RecruitCatDalalmk.csproj",
-              "RelativeDocumentMoniker": "RecruitCatDalalmk\\RecruitCatDalalmk.csproj",
-              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\RecruitCatDalalmk.csproj",
-              "RelativeToolTip": "RecruitCatDalalmk\\RecruitCatDalalmk.csproj",
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Industries\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Index.cshtml.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Industries\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-13T01:51:13.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Index.cshtml",
-              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T00:38:38.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T00:36:53.298Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:03:08.085Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "OurTeam.cshtml",
-              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\OurTeam.cshtml",
-              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\OurTeam.cshtml",
-              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\OurTeam.cshtml",
-              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\OurTeam.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T00:36:50.057Z"
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Industries\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Edit.cshtml.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Industries\\Edit.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:02:32.217Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Industries\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Create.cshtml.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Industries\\Create.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:02:11.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Companies\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Edit.cshtml.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Companies\\Edit.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:01:53.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "JobTitle.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Models\\JobTitle.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Models\\JobTitle.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Models\\JobTitle.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Models\\JobTitle.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:58:27.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Industrys.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Models\\Industrys.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Models\\Industrys.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Models\\Industrys.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Models\\Industrys.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:58:16.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Models\\Company.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Models\\Company.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:58:01.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\JobTitles\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\JobTitles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\JobTitles\\Index.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\JobTitles\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:45:30.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\JobTitles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\JobTitles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\JobTitles\\Edit.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\JobTitles\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:45:15.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\JobTitles\\Details.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\JobTitles\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\JobTitles\\Details.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\JobTitles\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:45:06.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\JobTitles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\JobTitles\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\JobTitles\\Delete.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\JobTitles\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:44:09.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\JobTitles\\Create.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\JobTitles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\JobTitles\\Create.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\JobTitles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:43:53.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Industries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Index.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Industries\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:43:46.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Industries\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Edit.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Industries\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:43:38.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Details.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Industries\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Details.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Industries\\Details.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:43:30.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Industries\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Delete.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Industries\\Delete.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:43:21.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Create.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Industries\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Industries\\Create.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Industries\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:43:13.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Companies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Edit.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Companies\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:42:59.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Companies\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Create.cshtml.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Companies\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:42:36.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Create.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Companies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Create.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Companies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:42:32.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Create.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Candidates\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Create.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Candidates\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:42:22.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Candidates\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Create.cshtml.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Candidates\\Create.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:42:18.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Candidates\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Edit.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Candidates\\Edit.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:41:44.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Candidates\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Edit.cshtml.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Candidates\\Edit.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:41:37.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Candidates\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Index.cshtml.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Candidates\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:40:42.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Candidates\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Index.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Candidates\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:39:55.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Companies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Index.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Companies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:39:50.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Models\\Candidate.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Models\\Candidate.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Models\\Candidate.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA3wDEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T00:40:21.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Candidates\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Delete.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Candidates\\Delete.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T00:38:17.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Candidates\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Delete.cshtml.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Candidates\\Delete.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wC4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T00:37:46.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Companies\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Delete.cshtml.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Companies\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T00:36:45.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Companies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Delete.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Companies\\Delete.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T00:36:37.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Candidates\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Details.cshtml.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Candidates\\Details.cshtml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T00:24:58.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Details.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Candidates\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Candidates\\Details.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Candidates\\Details.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T00:24:18.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Companies\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Details.cshtml.cs",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Companies\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:06:04.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Details.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatDalalmk\\Pages\\Companies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dalal\\source\\repos\\RecruitCatDalalmk\\RecruitCatDalalmk\\Pages\\Companies\\Details.cshtml",
+              "RelativeToolTip": "RecruitCatDalalmk\\Pages\\Companies\\Details.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T21:03:46.842Z"
             }
           ]
         }
